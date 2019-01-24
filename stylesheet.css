@@ -1,0 +1,56 @@
+#main{
+	background-color:white;
+	min-height: 1000px;
+	width:0%
+}
+.col-md{
+background-color:white;
+
+float:;
+min-height: 1000px;
+padding: 0PX;
+}
+
+.col-{
+background-color:yellow;
+min-height: 1000px;
+margin right: 690px;
+
+}
+.ref{
+	margin: 20px;
+}
+
+#img {
+	border-radius:55%;
+	padding: 20px;
+	width: 200px;
+  height: 200px;
+  margin-left: 100px;
+  margin-right: 200px;
+}
+
+.row1{
+	display: inline;
+	width: 100%;
+	vertical-align:0px;
+}
+
+.col-7 {
+	width:70%;
+	display: inline-block;
+	float:left;
+    padding:17px;
+}
+.col-5{
+
+	width: 25%;
+	display: inline-block;
+	float:left;
+	padding-top: 17px;
+	
+
+}
+
+
+
